@@ -1,0 +1,61 @@
+.firstHeading {
+    --rem: 16;
+    --font-size-medium: 0.875rem;
+    --line-height-medium: 1.5714285;
+    direction: ltr;
+    color: #000000;
+    margin: 0;
+    overflow: hidden;
+    font-weight: normal;
+    padding: 0;
+    line-height: 1.375;
+    font-size: 1.8em;
+    word-wrap: break-word;
+    flex-grow: 1;
+    border-bottom: 1px solid;
+    font-family: "Linux Libertine", "Palatino Linotype", "EB Garamond", "Times New Roman", "Times", serif;
+
+}
+.mw-page-title-main {
+    --rem: 16;
+    --font-size-medium: 0.875rem;
+    --line-height-medium: 1.5714285;
+    direction: ltr;
+    color: #000000;
+    font-weight: normal;
+    line-height: 1.375;
+    font-size: 1.8em;
+    word-wrap: break-word;
+    font-family: "Linux Libertine","Palatino Linotype","EB Garamond","Times New Roman","Times",serif;
+}
+.vector-body-before-content {    --rem: 16;
+    --font-size-medium: 0.875rem;
+    --line-height-medium: 1.5714285;
+    color: #202122;
+    font-family: sans-serif;
+    direction: ltr;
+    font-size: var(--font-size-medium);
+    line-height: var(--line-height-medium);
+    overflow: hidden;
+}
+.noprint {    --rem: 16;
+    --font-size-medium: 0.875rem;
+    --line-height-medium: 1.5714285;
+    color: #202122;
+    font-family: sans-serif;
+    direction: ltr;
+    line-height: var(--line-height-medium);
+    margin-top: 8px;
+    display: inline;
+    font-size: 0.875rem;
+}
+p {    --rem: 16;
+    --font-size-medium: 0.875rem;
+    --line-height-medium: 1.5714285;
+    color: #202122;
+    font-family: sans-serif;
+    direction: ltr;
+    font-size: var(--font-size-medium);
+    line-height: var(--line-height-medium);
+    margin: 0.5em 0 1em 0;
+}
